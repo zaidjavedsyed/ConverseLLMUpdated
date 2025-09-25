@@ -1,7 +1,4 @@
 <div align="center">
-<a href="">
-    <img alt="comet" src="https://github.com/vedanti-u/SiteGenie/blob/main/assets/sitegenie-11.png" height=140 >
-</a>
 </div>
 </br>
 <div>
@@ -28,8 +25,6 @@
 </div align="left" >
 
 # ConverseLLM - Backend
-
-_This repository contains all the code of backend for_ [ConverseLLM](https://github.com/vedanti-u/SiteGenie)
 
 ---
 # Installation
@@ -67,7 +62,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/vedanti-u/site-backend.git
+    $ git clone https://github.com/zaidjavedsyed/ConverseLLMUpdated.git
     $ yarn install
 
 ## Nodemon Installation
