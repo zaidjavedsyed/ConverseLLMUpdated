@@ -1,7 +1,4 @@
 <div align="center">
-<a href="">
-    <img alt="comet" src="assets/sitegenie-11.png" height=160 >
-</a>
 </div>
 </br>
 <div>
@@ -26,14 +23,6 @@
 </div>
 
 </div align="left" >
-
-https://github.com/user-attachments/assets/c204dadd-e987-4574-ae91-5e45768282d4
-
-
-
-
-
-
 
 ## About Converse LLM
 
