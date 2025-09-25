@@ -112,7 +112,7 @@ sequenceDiagram
 - Clone the repository
 
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+  https://github.com/zaidjavedsyed/ConverseLLMUpdated.git
    ```
 
 - Install dependencies
@@ -273,17 +273,17 @@ _your branch will be merged on code review_
   <tr>
     <td align="center">
       <a href="#">
-          Vedanti Udapure
+          Zaid Syed
       </a>
     </td>
     <td align="center">
       <a href="#">
-          Vedant Bhalerao
+          Vedant Kohad
       </a>
     </td>
     <td align="center">
       <a href="#">
-          Vojas Gonnade
+          Shehzan Sheikh
       </a>
     </td>
   </tr>
